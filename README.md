@@ -5,7 +5,7 @@ I love turning ideas into deployable, cloud-ready products using **React, Node.j
 
 ---
 ## 📄 Resume
-👉 [Download my resume](./Sunny_FullStack_Ai.pdf)
+👉 [Download my resume](./Sunny_Full_Stack_ai.pdf)
 
 ### 🧩 What I Do
 - 💻 Develop full-stack apps with **React, Next.js, Node.js, and PostgreSQL**
