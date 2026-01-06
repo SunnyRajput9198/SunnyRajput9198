@@ -37,10 +37,6 @@ I love turning ideas into deployable, cloud-ready products using **React, Node.j
 
 ---
 
-### 📈 GitHub Stats
-
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnyRajput9198&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyRajput9198&layout=compact&theme=tokyonight)
 
 ---
 
