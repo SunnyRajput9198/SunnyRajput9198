@@ -35,7 +35,7 @@ Choose the version that best matches the role:
 | 🎶 **Muzer** | Collaborative YouTube party-streaming app with voting and emoji reactions | React • Express • Prisma • WebSocket • Docker |
 
 🔗 [View More Projects »](https://github.com/SunnyRajput9198?tab=repositories)
-
+   
 ---
 
 ### 🧰 Tech Stack
