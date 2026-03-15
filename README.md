@@ -86,7 +86,7 @@
 
 #### 🌐 Web Dev
 
-**[MetaSpace — Browser-based 2D Metaverse](https://github.com/SunnyRajput9198)**
+**[MetaSpace — Browser-based 2D Metaverse](https://github.com/SunnyRajput9198/2-d-metaverse.git)**
 > Real-time multi-user virtual space with avatars, chat & video calls
 
 - Achieved <100ms state sync via event-driven authoritative server architecture
@@ -96,7 +96,7 @@
 
 ---
 
-**[Muzer — Collaborative Party Music Streaming](https://github.com/SunnyRajput9198)**
+**[Muzer — Collaborative Party Music Streaming](https://github.com/SunnyRajput9198/Muzer.git)**
 > Synchronized music playback with real-time voting for shared listening sessions
 
 - WebSocket-based queue and playback sync for consistent state across all users
