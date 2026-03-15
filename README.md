@@ -2,11 +2,13 @@
 
 # Hey, I'm Sunny Raj 👋
 
-**Full Stack Engineer** · Building real-time systems & AI-powered apps
+**Full Stack Engineer & AI/ML Builder** · Real-time systems · RAG pipelines · Autonomous agents
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://drive.google.com/file/d/1Xs5JHjLNunwZ17qdG53x3kHHgBzjQNYe/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-raj)
+[![WebDev Resume](https://img.shields.io/badge/Resume%20(WebDev)-000000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Xs5JHjLNunwZ17qdG53x3kHHgBzjQNYe/view?usp=sharing)
+[![AI/ML Resume](https://img.shields.io/badge/Resume%20(AI%2FML)-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Fd2PhhYQvNOWfglh-BBgRAYe2V4KaKib/view?usp=sharing)
+[![Combined Resume](https://img.shields.io/badge/Resume%20(Full)-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zo5J1BnV5WIX8vgZs7Qru3EclsDVC3S9/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajputsny22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/sunny-rajput-0551702b4)
 
 </div>
 
@@ -15,9 +17,9 @@
 ### 🧠 About Me
 
 - 🎓 3rd year B.Tech CSE @ **Kamla Nehru Institute of Technology (KNIT), Sultanpur**
-- ⚡ I build **real-time multi-user systems** (WebSockets, WebRTC) and **AI-powered full-stack apps** (RAG, LLMs)
-- 🔭 Currently working on **MetaSpace** — a browser-based 2D metaverse platform
-- 🤖 Recently shipped **EduBot** — a RAG-based AI teaching assistant powered by Claude
+- ⚡ I build **real-time multi-user systems** (WebSockets, WebRTC) and **AI-powered apps** (RAG, LLM agents)
+- 🔭 Currently working on **MetaSpace** — a browser-based 2D metaverse & **Autonomous Agent System** — multi-agent AI orchestration
+- 🤖 Shipped **EduBot** (RAG teaching assistant) and **Muzer** (collaborative music streaming)
 - 📫 Reach me at **rajputsny22@gmail.com**
 
 ---
@@ -37,10 +39,19 @@
 
 **Backend & Real-Time**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
+
+**AI / ML**
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=flat-square)
 
 **Databases & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -52,31 +63,45 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 [EduBot — RAG-Based AI Teaching Assistant](https://github.com/SunnyRajput9198/RAG-Based-Ai-Assistant)
+#### 🤖 AI / ML
+
+**[EduBot — RAG-Based AI Teaching Assistant](https://github.com/SunnyRajput9198/RAG-Based-Ai-Assistant)**
 > Chat with your YouTube videos and PDFs using AI
 
-- Built a full-stack RAG pipeline: YouTube → yt-dlp → Whisper transcription → embeddings → vector search → Claude Sonnet
-- Implemented real-time WebSocket progress updates, voice I/O (Web Speech API), and chat-to-PDF export
-- **Stack:** Next.js · FastAPI · Claude Sonnet · Whisper · sentence-transformers · LangGraph · Python 3.11
+- Built end-to-end RAG pipeline: YouTube → yt-dlp → Whisper transcription → embeddings → vector search → Claude Sonnet
+- Implemented real-time WebSocket progress, voice I/O (Web Speech API), clickable timestamps, and chat-to-PDF export
+- `Next.js` `FastAPI` `Claude Sonnet` `Whisper` `sentence-transformers` `LangGraph` `Python 3.11`
 
 ---
 
-#### 🌐 [MetaSpace — Browser-based 2D Metaverse](https://github.com/SunnyRajput9198)
+**[Autonomous Agent System](https://github.com/SunnyRajput9198/Automatic-AI)**
+> Multi-agent AI orchestration with reasoning, coordination, and tool execution
+
+- Built Orchestrator V3 with full task lifecycle management — Reasoner + Coordinator agents working end-to-end
+- Designed tool execution layer: sandboxed Python, file ops, web requests; async FastAPI backend with PostgreSQL persistence
+- Architecting specialized agents (Planner, Executor, Critic, Reflection) on top of working orchestration foundation
+- `FastAPI` `Claude` `PostgreSQL` `SQLAlchemy` `Next.js` `Docker` `LangGraph`
+
+---
+
+#### 🌐 Web Dev
+
+**[MetaSpace — Browser-based 2D Metaverse](https://github.com/SunnyRajput9198)**
 > Real-time multi-user virtual space with avatars, chat & video calls
 
-- Achieved <100ms state sync via event-driven server architecture with authoritative state handling
+- Achieved <100ms state sync via event-driven authoritative server architecture
 - Integrated LiveKit SFU-based WebRTC for scalable video, audio, and screen sharing
-- Dockerized microservices separating frontend, API, and WebSocket services for production deployment
-- **Stack:** JavaScript · WebSockets · WebRTC · LiveKit · PostgreSQL · Docker · AWS (EC2, ALB, Auto Scaling)
+- Dockerized microservices separating frontend, API, and WebSocket services
+- `JavaScript` `WebSockets` `WebRTC` `LiveKit` `PostgreSQL` `Docker` `AWS`
 
 ---
 
-#### 🎵 [Muzer — Collaborative Party Music Streaming](https://github.com/SunnyRajput9198)
+**[Muzer — Collaborative Party Music Streaming](https://github.com/SunnyRajput9198)**
 > Synchronized music playback with real-time voting for shared listening sessions
 
-- Built WebSocket-based queue and playback synchronization for consistent state across all users
-- Designed real-time voting system to dynamically reorder playlists via upvote/downvote
-- **Stack:** Next.js · Node.js · PostgreSQL · WebSockets · Docker
+- WebSocket-based queue and playback sync for consistent state across all users
+- Real-time voting system to dynamically reorder playlists
+- `Next.js` `Node.js` `PostgreSQL` `WebSockets` `Docker`
 
 ---
 
