@@ -20,7 +20,7 @@
 - ⚡ I build **real-time multi-user systems** (WebSockets, WebRTC) and **AI-powered apps** (RAG, LLM agents)
 - 🔭 Currently working on **MetaSpace** — a browser-based 2D metaverse & **Autonomous Agent System** — multi-agent AI orchestration
 - 🤖 Shipped **EduBot** (RAG teaching assistant) and **Muzer** (collaborative music streaming)
-- 📫 Reach me at **rajputsny22@gmail.com**
+- 📫 Reach me at **hello@sunnyrajput.me**
 
 ---
 
