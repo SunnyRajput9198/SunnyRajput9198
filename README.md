@@ -7,7 +7,7 @@
 [![WebDev Resume](https://img.shields.io/badge/Resume%20(WebDev)-000000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Xs5JHjLNunwZ17qdG53x3kHHgBzjQNYe/view?usp=sharing)
 [![AI/ML Resume](https://img.shields.io/badge/Resume%20(AI%2FML)-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Fd2PhhYQvNOWfglh-BBgRAYe2V4KaKib/view?usp=sharing)
 [![Combined Resume](https://img.shields.io/badge/Resume%20(Full)-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zo5J1BnV5WIX8vgZs7Qru3EclsDVC3S9/view?usp=sharing)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajputsny22@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@sunnyrajput.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/sunny-rajput-0551702b4)
 
 </div>
