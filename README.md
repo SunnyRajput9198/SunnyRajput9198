@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd year B.Tech IT @ **Kamla Nehru Institute of Technology (KNIT), Sultanpur**
+- 🎓 Final year B.Tech IT @ **Kamla Nehru Institute of Technology (KNIT), Sultanpur**
 - ⚡ I build **real-time multi-user systems** (WebSockets, WebRTC) and **AI-powered apps** (RAG, LLM agents)
 - 🔭 Currently working on **MetaSpace** — a browser-based 2D metaverse & **Autonomous Agent System** — multi-agent AI orchestration
 - 🤖 Shipped **EduBot** (RAG teaching assistant) and **Muzer** (collaborative music streaming)
